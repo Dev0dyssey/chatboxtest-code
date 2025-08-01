@@ -1,66 +1,108 @@
 'use client'
 import { useState, useRef, useEffect } from 'react'
+import OnboardingQuestions from './UI/onboarding-questions'
+
+// Types
+interface Message {
+  id: string
+  content: string
+  isUser: boolean
+}
+
+interface ApiRequest {
+  message: string
+}
 
 export default function Home() {
-  const [messages, setMessages] = useState<string[]>([])
+  const [messages, setMessages] = useState<Message[]>([])
   const [input, setInput] = useState('')
+  const [messageCounter, setMessageCounter] = useState(0)
   const endRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => { endRef.current?.scrollIntoView() }, [messages])
 
+  const getMessageClasses = (isUser: boolean) => {
+    return `message-base ${isUser ? 'message-user' : 'message-ai'}`
+  }
+
+  const getNextId = () => {
+    const id = messageCounter
+    setMessageCounter(prev => prev + 1)
+    return id.toString()
+  }
+
   async function send() {
     if (!input.trim()) return
-    const user = input.trim()
-    setMessages(prev => [...prev, user])
+    const userMessage = input.trim()
+    
+    // Add user message
+    const userMsg: Message = {
+      id: `user_${getNextId()}`,
+      content: userMessage,
+      isUser: true
+    }
+    setMessages(prev => [...prev, userMsg])
     setInput('')
 
-    const res = await fetch('/api/stream', {
+    const requestBody: ApiRequest = { message: userMessage }
+    const response = await fetch('/api/stream', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ message: user })
+      body: JSON.stringify(requestBody)
     })
 
-    if (!res.body) return
-    const reader = res.body.getReader()
+    if (!response.body) return
+    const reader = response.body.getReader()
     const decoder = new TextDecoder()
-    let ai = ''
-    setMessages(prev => [...prev, ''])
+    let aiMessage = ''
+    
+    // Add empty AI message that we'll update
+    const aiMsg: Message = {
+      id: `ai_${getNextId()}`,
+      content: '',
+      isUser: false
+    }
+    setMessages(prev => [...prev, aiMsg])
+    
     for (;;) {
       const { value, done } = await reader.read()
       if (done) break
-      ai += decoder.decode(value)
+      aiMessage += decoder.decode(value)
       setMessages(prev => {
         const copy = [...prev]
-        copy[copy.length - 1] = ai
+        copy[copy.length - 1] = { ...copy[copy.length - 1], content: aiMessage }
         return copy
       })
     }
   }
 
   return (
-    <div className="fixed bottom-6 right-6 w-80 h-96 flex flex-col rounded-lg shadow-lg border bg-white dark:bg-gray-900">
-      <div className="flex-1 p-3 overflow-y-auto space-y-2 text-sm">
-        {messages.map((m, i) => (
+    <div className="chat-container">
+      <div>
+        <OnboardingQuestions />
+      </div>
+      <div className="chat-messages">
+        {messages.map((message) => (
           <div
-            key={i}
-            className={`max-w-[75%] break-words ${i % 2 === 0 ? 'self-end bg-blue-600 text-white' : 'self-start bg-gray-200 text-gray-900 dark:bg-gray-700 dark:text-gray-50'} rounded-md px-3 py-1`}
+            key={message.id}
+            className={getMessageClasses(message.isUser)}
           >
-            {m}
+            {message.content}
           </div>
         ))}
         <div ref={endRef} />
       </div>
-      <div className="p-3 flex gap-2">
+      <div className="chat-input-container">
         <input
           value={input}
-          onChange={e => setInput(e.target.value)}
-          onKeyDown={e => e.key === 'Enter' && send()}
-          className="flex-1 rounded-md border px-2 py-1 text-sm bg-transparent outline-none"
+          onChange={event => setInput(event.target.value)}
+          onKeyDown={event => event.key === 'Enter' && send()}
+          className="chat-input"
           placeholder="Type a message"
         />
         <button
           onClick={send}
-          className="px-3 py-1 rounded-md bg-blue-600 text-white text-sm hover:bg-blue-700"
+          className="chat-send-button"
         >
           Send
         </button>

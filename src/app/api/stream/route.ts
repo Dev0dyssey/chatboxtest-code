@@ -1,16 +1,16 @@
 export const runtime = 'edge'
 
-export async function POST(req: Request) {
-  const { message } = await req.json()
+export async function POST(request: Request) {
+  const { message } = await request.json()
   const encoder = new TextEncoder()
 
   const stream = new ReadableStream({
     async start(controller) {
         console.log(`Received message: ${message}`)
       const text = `Echo: ${message}`
-      for (const ch of text) {
-        controller.enqueue(encoder.encode(ch))
-        await new Promise(r => setTimeout(r, 50))
+      for (const character of text) {
+        controller.enqueue(encoder.encode(character))
+        await new Promise(resolve => setTimeout(resolve, 50))
       }
       controller.close()
     }
