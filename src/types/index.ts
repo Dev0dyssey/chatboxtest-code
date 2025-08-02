@@ -1,3 +1,9 @@
+// Message types
+export interface Message {
+  id: string
+  content: string
+  isUser: boolean
+}
 // User data types
 export interface UserData {
   name?: string
@@ -10,4 +16,5 @@ export interface UserData {
 export interface ChatApiRequest {
   message: string
   userAnswers?: UserData
+  conversationHistory?: Array<{ content: string; isUser: boolean }>
 }
