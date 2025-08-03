@@ -4,6 +4,8 @@
 // IMPORTS
 // ============================================================================
 import { useState, useRef, useEffect } from 'react'
+import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
 import Login from './UI/login'
 import OnboardingQuestions from './UI/onboarding-questions'
 import { UserData, ChatApiRequest, Message } from '@/types'
@@ -174,7 +176,15 @@ export default function Home() {
           key={message.id}
           className={getMessageClasses(message.isUser)}
         >
-          {message.content}
+          {message.isUser ? (
+            message.content
+          ) : (
+            <div className="markdown-content">
+              <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                {message.content}
+              </ReactMarkdown>
+            </div>
+          )}
         </div>
       ))}
       <div ref={endRef} />
