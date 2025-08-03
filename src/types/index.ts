@@ -1,10 +1,9 @@
-// Message types
 export interface Message {
   id: string
   content: string
   isUser: boolean
 }
-// User data types
+
 export interface UserData {
   name?: string
   country?: string
@@ -12,7 +11,6 @@ export interface UserData {
   city?: string
 }
 
-// API request types
 export interface ChatApiRequest {
   message: string
   userAnswers?: UserData

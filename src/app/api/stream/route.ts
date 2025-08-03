@@ -43,7 +43,6 @@ export async function POST(request: Request) {
       }
     ]
 
-    // Create OpenAI stream
     const stream = await openai.chat.completions.create({
       model: "gpt-4.1",
       messages,
@@ -70,8 +69,6 @@ export async function POST(request: Request) {
         const content = choice?.delta?.content || ''
         const toolCalls = choice?.delta?.tool_calls
         const finishReason = choice?.finish_reason
-
-        //Handle tool calls
         if(toolCalls && toolCalls[0] && !toolCallData) {
           controller.enqueue(new TextEncoder().encode("I'll get the information you need. \n\n"))
 
@@ -87,12 +84,11 @@ export async function POST(request: Request) {
             toolCallData.arguments += toolCalls[0].function.arguments
           }
         }
-        // Handle non tool call content
+        
         if(content) {
           controller.enqueue(new TextEncoder().encode(content))
         }
 
-        // Check if tool call is complete
         if(finishReason === 'tool_calls') {
           console.log('Tool call complete:', toolCallData)
           break
@@ -108,7 +104,6 @@ export async function POST(request: Request) {
         const functionResult = getCountryInfo(args)
         console.log('Function result:', functionResult)
 
-        // Messages for second OpenAI call
         const secondCallMessages = [
           ...messages,
           {
@@ -129,7 +124,6 @@ export async function POST(request: Request) {
           }
         ]
 
-        // Second OpenAI call providing the result of the tool call
         const finalCall = await openai.chat.completions.create({
           model: "gpt-4.1",
           messages: secondCallMessages,

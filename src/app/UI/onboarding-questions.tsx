@@ -28,7 +28,6 @@ export default function OnboardingQuestions({
   const handleAnswer = (answer: string) => {
     const newUserData = { ...userData }
     
-    // Map current step to the appropriate field
     switch (currentStep) {
       case 0:
         newUserData.name = answer
@@ -54,7 +53,24 @@ export default function OnboardingQuestions({
     }
   }
 
-  const handleSkip = () => {
+  const handleSkipQuestion = () => {
+    if (currentStep < questions.length - 1) {
+      setCurrentStep(prev => prev + 1)
+      setCurrentInput('')
+    } else {
+      onComplete(userData)
+    }
+  }
+
+  const handleNext = () => {
+    if (currentInput.trim()) {
+      handleAnswer(currentInput.trim())
+    } else {
+      handleSkipQuestion()
+    }
+  }
+
+  const handleSkipAll = () => {
     onComplete(userData)
   }
 
@@ -74,7 +90,7 @@ export default function OnboardingQuestions({
           {questions[currentStep]}
         </h3>
         
-        <div className="space-y-3">
+        <div className="space-y-4">
           <input
             type="text"
             value={currentInput}
@@ -84,16 +100,27 @@ export default function OnboardingQuestions({
             onKeyDown={(e) => {
               if (e.key === 'Enter' && currentInput.trim()) {
                 handleAnswer(currentInput.trim())
+              } else if (e.key === 'Enter' && !currentInput.trim()) {
+                handleSkipQuestion()
               }
             }}
             autoFocus
           />
+          
+          {/* Question Control */}
+          <button
+            onClick={handleNext}
+            className={currentStep === questions.length - 1 ? 'onboarding-complete-button' : 'onboarding-next-button'}
+          >
+            {currentStep === questions.length - 1 ? 'Complete Setup' : 'Next'}
+          </button>
         </div>
       </div>
 
-      <div className="flex justify-between">
+      {/* Progress and Global Actions */}
+      <div className="flex justify-between items-center">
         <button
-          onClick={handleSkip}
+          onClick={handleSkipAll}
           className="onboarding-skip-button"
         >
           Skip for now

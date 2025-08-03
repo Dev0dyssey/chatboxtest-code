@@ -160,7 +160,15 @@ body {
 }
 
 .onboarding-skip-button {
-  @apply text-sm text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 transition-colors;
+  @apply text-sm text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 font-medium transition-colors;
+}
+
+.onboarding-next-button {
+  @apply w-full px-4 py-2 text-sm font-medium rounded-md transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 bg-blue-600 hover:bg-blue-700 text-white focus:ring-blue-500;
+}
+
+.onboarding-complete-button {
+  @apply w-full px-4 py-2 text-sm font-medium rounded-md transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 bg-green-600 hover:bg-green-700 text-white focus:ring-green-500;
 }
 
 .progress-dot {
@@ -194,6 +202,30 @@ body {
 
 .login-toggle-button {
   @apply ml-1 text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 font-medium transition-colors;
+}
+
+.login-guest-button {
+  @apply w-full flex justify-center py-2 px-4 border border-gray-300 dark:border-gray-600 rounded-md shadow-sm bg-white dark:bg-gray-800 text-sm font-medium text-gray-700 dark:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors;
+}
+
+.login-divider {
+  @apply relative mt-6;
+}
+
+.login-divider-line {
+  @apply absolute inset-0 flex items-center;
+}
+
+.login-divider-border {
+  @apply w-full border-t border-gray-300 dark:border-gray-600;
+}
+
+.login-divider-text {
+  @apply relative flex justify-center text-sm;
+}
+
+.login-divider-text span {
+  @apply px-2 bg-white dark:bg-gray-900 text-gray-500 dark:text-gray-400;
 }
 
 /* Page Layout */
