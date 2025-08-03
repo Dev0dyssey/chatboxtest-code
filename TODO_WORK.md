@@ -38,3 +38,5 @@ Potential future enhancements and improvements that could be implemented with mo
 - Performance optimization and lazy loading
 - Accessibility improvements (ARIA labels, keyboard navigation)
 - Error boundaries and better error handling
+- Add way to handle longer chat threads by making a model call to summarise the previous conversation history
+- Ability for user to customize the chtabot (tone, temperature)
