@@ -73,7 +73,7 @@ export async function POST(request: Request) {
 
         //Handle tool calls
         if(toolCalls && toolCalls[0] && !toolCallData) {
-          controller.enqueue(new TextEncoder().encode("Getting your information..."))
+          controller.enqueue(new TextEncoder().encode("I'll get the information you need. \n\n"))
 
           toolCallData = {
             id: toolCalls[0].id || `call_${Date.now()}`,

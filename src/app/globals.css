@@ -41,8 +41,8 @@ body {
 }
 
 .chat-container-centered {
-  width: 100%;
-  max-width: 28rem;
+  width: 75%;
+  max-width: 60rem;
   height: 32rem;
   display: flex;
   flex-direction: column;
@@ -202,7 +202,7 @@ body {
 }
 
 .content-container {
-  @apply w-full max-w-md flex flex-col items-center gap-6;
+  @apply w-3/4 max-w-4xl flex flex-col items-center gap-6;
 }
 
 /* Markdown Content Styles */
