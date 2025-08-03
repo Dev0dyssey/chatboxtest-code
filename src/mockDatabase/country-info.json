@@ -1,0 +1,1374 @@
+{
+    "Afghanistan": {
+      "capital": "Kabul",
+      "currency": "Afghani (AFN)",
+      "timezone": "Asia/Kabul",
+      "language": "Dari, Pashto",
+      "travel_fact": "Home to the Minaret of Jam, a UNESCO World Heritage site, and historically a key point on the ancient Silk Road."
+    },
+    "Albania": {
+      "capital": "Tirana",
+      "currency": "Lek (ALL)",
+      "timezone": "Europe/Tirane",
+      "language": "Albanian",
+      "travel_fact": "Features over 173,000 concrete bunkers scattered throughout the country, built during its communist period."
+    },
+    "Algeria": {
+      "capital": "Algiers",
+      "currency": "Algerian Dinar (DZD)",
+      "timezone": "Africa/Algiers",
+      "language": "Arabic, Berber",
+      "travel_fact": "The largest country in Africa, with over 80% of its territory covered by the Sahara Desert."
+    },
+    "Andorra": {
+      "capital": "Andorra la Vella",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Andorra",
+      "language": "Catalan",
+      "travel_fact": "A microstate in the Pyrenees mountains, known for its ski resorts and duty-free shopping."
+    },
+    "Angola": {
+      "capital": "Luanda",
+      "currency": "Kwanza (AOA)",
+      "timezone": "Africa/Luanda",
+      "language": "Portuguese",
+      "travel_fact": "The city of Luanda is often cited as one of the most expensive cities in the world for expatriates."
+    },
+    "Antigua and Barbuda": {
+      "capital": "St. John's",
+      "currency": "East Caribbean Dollar (XCD)",
+      "timezone": "America/Antigua",
+      "language": "English",
+      "travel_fact": "Claims to have a different beach for every day of the year, with 365 distinct beaches."
+    },
+    "Argentina": {
+      "capital": "Buenos Aires",
+      "currency": "Argentine Peso (ARS)",
+      "timezone": "America/Argentina/Buenos_Aires",
+      "language": "Spanish",
+      "travel_fact": "The birthplace of the Tango dance and home to the southernmost city in the world, Ushuaia."
+    },
+    "Armenia": {
+      "capital": "Yerevan",
+      "currency": "Armenian Dram (AMD)",
+      "timezone": "Asia/Yerevan",
+      "language": "Armenian",
+      "travel_fact": "Was the first nation in the world to officially adopt Christianity as its state religion in 301 AD."
+    },
+    "Australia": {
+      "capital": "Canberra",
+      "currency": "Australian Dollar (AUD)",
+      "timezone": "Australia/Sydney",
+      "language": "English",
+      "travel_fact": "Home to the Great Barrier Reef, the world's largest coral reef system, visible from outer space."
+    },
+    "Austria": {
+      "capital": "Vienna",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Vienna",
+      "language": "German",
+      "travel_fact": "Vienna has been named the world's most livable city multiple times and is famous for its classical music legacy."
+    },
+    "Azerbaijan": {
+      "capital": "Baku",
+      "currency": "Azerbaijani Manat (AZN)",
+      "timezone": "Asia/Baku",
+      "language": "Azerbaijani",
+      "travel_fact": "Known as the 'Land of Fire,' with natural ever-burning fires like Yanar Dag and a history of fire-worshipping Zoroastrianism."
+    },
+    "Bahamas": {
+      "capital": "Nassau",
+      "currency": "Bahamian Dollar (BSD)",
+      "timezone": "America/Nassau",
+      "language": "English",
+      "travel_fact": "Features the world's third-largest barrier reef and unique pink sand beaches on Harbour Island."
+    },
+    "Bahrain": {
+      "capital": "Manama",
+      "currency": "Bahraini Dinar (BHD)",
+      "timezone": "Asia/Bahrain",
+      "language": "Arabic",
+      "travel_fact": "The site of the ancient Dilmun civilization and home to the 'Tree of Life,' a 400-year-old tree that stands alone in the desert."
+    },
+    "Bangladesh": {
+      "capital": "Dhaka",
+      "currency": "Taka (BDT)",
+      "timezone": "Asia/Dhaka",
+      "language": "Bengali",
+      "travel_fact": "Home to the world's largest river delta, the Ganges-Brahmaputra Delta, which makes the land incredibly fertile."
+    },
+    "Barbados": {
+      "capital": "Bridgetown",
+      "currency": "Barbadian Dollar (BBD)",
+      "timezone": "America/Barbados",
+      "language": "English",
+      "travel_fact": "The birthplace of rum, with the Mount Gay Rum distillery dating back to 1703."
+    },
+    "Belarus": {
+      "capital": "Minsk",
+      "currency": "Belarusian Ruble (BYN)",
+      "timezone": "Europe/Minsk",
+      "language": "Belarusian, Russian",
+      "travel_fact": "Home to Białowieża Forest, one of the last and largest remaining parts of the immense primeval forest that once stretched across Europe."
+    },
+    "Belgium": {
+      "capital": "Brussels",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Brussels",
+      "language": "Dutch, French, German",
+      "travel_fact": "Produces over 220,000 tons of chocolate per year and has more castles per square kilometer than any other country."
+    },
+    "Belize": {
+      "capital": "Belmopan",
+      "currency": "Belize Dollar (BZD)",
+      "timezone": "America/Belize",
+      "language": "English",
+      "travel_fact": "Features the Great Blue Hole, a giant marine sinkhole that is part of the Belize Barrier Reef Reserve System."
+    },
+    "Benin": {
+      "capital": "Porto-Novo",
+      "currency": "West African CFA franc (XOF)",
+      "timezone": "Africa/Porto-Novo",
+      "language": "French",
+      "travel_fact": "Considered the birthplace of the Vodun (Voodoo) religion, which is still widely practiced in the country."
+    },
+    "Bhutan": {
+      "capital": "Thimphu",
+      "currency": "Bhutanese Ngultrum (BTN)",
+      "timezone": "Asia/Thimphu",
+      "language": "Dzongkha",
+      "travel_fact": "The only country in the world to measure Gross National Happiness instead of Gross Domestic Product (GDP)."
+    },
+    "Bolivia": {
+      "capital": "Sucre (constitutional), La Paz (seat of government)",
+      "currency": "Boliviano (BOB)",
+      "timezone": "America/La_Paz",
+      "language": "Spanish, Quechua, Aymara",
+      "travel_fact": "Home to Salar de Uyuni, the world's largest salt flat, which creates a stunning mirror effect during the rainy season."
+    },
+    "Bosnia and Herzegovina": {
+      "capital": "Sarajevo",
+      "currency": "Convertible Mark (BAM)",
+      "timezone": "Europe/Sarajevo",
+      "language": "Bosnian, Croatian, Serbian",
+      "travel_fact": "The capital, Sarajevo, was the first city in Europe to have a full-time electric tram network."
+    },
+    "Botswana": {
+      "capital": "Gaborone",
+      "currency": "Pula (BWP)",
+      "timezone": "Africa/Gaborone",
+      "language": "English, Tswana",
+      "travel_fact": "The Okavango Delta is the world's largest inland delta and a haven for some of Africa's most concentrated wildlife."
+    },
+    "Brazil": {
+      "capital": "Brasília",
+      "currency": "Brazilian Real (BRL)",
+      "timezone": "America/Sao_Paulo",
+      "language": "Portuguese",
+      "travel_fact": "Contains about 60% of the Amazon Rainforest, the largest and most biodiverse tropical rainforest in the world."
+    },
+    "Brunei": {
+      "capital": "Bandar Seri Begawan",
+      "currency": "Brunei Dollar (BND)",
+      "timezone": "Asia/Brunei",
+      "language": "Malay",
+      "travel_fact": "Home to Kampong Ayer, the world's largest water village, with houses, schools, and mosques built on stilts."
+    },
+    "Bulgaria": {
+      "capital": "Sofia",
+      "currency": "Lev (BGN)",
+      "timezone": "Europe/Sofia",
+      "language": "Bulgarian",
+      "travel_fact": "One of the world's largest producers of rose oil, essential for many perfumes, which is harvested in the Rose Valley."
+    },
+    "Burkina Faso": {
+      "capital": "Ouagadougou",
+      "currency": "West African CFA franc (XOF)",
+      "timezone": "Africa/Ouagadougou",
+      "language": "French",
+      "travel_fact": "The name of the country means 'Land of Incorruptible People,' and it's a major center for African film and arts."
+    },
+    "Burundi": {
+      "capital": "Gitega",
+      "currency": "Burundian Franc (BIF)",
+      "timezone": "Africa/Bujumbura",
+      "language": "Kirundi, French, English",
+      "travel_fact": "Known for its skilled drummers, the Royal Drummers of Burundi, who perform traditional and sacred drumming routines."
+    },
+    "Cabo Verde": {
+      "capital": "Praia",
+      "currency": "Cape Verdean Escudo (CVE)",
+      "timezone": "Atlantic/Cape_Verde",
+      "language": "Portuguese",
+      "travel_fact": "An archipelago of 10 volcanic islands known for its warm climate and unique blend of Portuguese and African cultures."
+    },
+    "Cambodia": {
+      "capital": "Phnom Penh",
+      "currency": "Riel (KHR)",
+      "timezone": "Asia/Phnom_Penh",
+      "language": "Khmer",
+      "travel_fact": "Home to Angkor Wat, the world's largest religious monument and a spectacular example of Khmer architecture."
+    },
+    "Cameroon": {
+      "capital": "Yaoundé",
+      "currency": "Central African CFA franc (XAF)",
+      "timezone": "Africa/Douala",
+      "language": "French, English",
+      "travel_fact": "Often called 'Africa in Miniature' due to its immense geological and cultural diversity, from beaches to rainforests to mountains."
+    },
+    "Canada": {
+      "capital": "Ottawa",
+      "currency": "Canadian Dollar (CAD)",
+      "timezone": "America/Toronto",
+      "language": "English, French",
+      "travel_fact": "Has the longest coastline of any country in the world and over half of the world's natural lakes."
+    },
+    "Central African Republic": {
+      "capital": "Bangui",
+      "currency": "Central African CFA franc (XAF)",
+      "timezone": "Africa/Bangui",
+      "language": "French, Sango",
+      "travel_fact": "One of the best places in the world to see forest elephants and lowland gorillas in their natural habitat."
+    },
+    "Chad": {
+      "capital": "N'Djamena",
+      "currency": "Central African CFA franc (XAF)",
+      "timezone": "Africa/Ndjamena",
+      "language": "French, Arabic",
+      "travel_fact": "Known as the 'Babel Tower of the World' because of the large number of languages and ethnic groups within its borders."
+    },
+    "Chile": {
+      "capital": "Santiago",
+      "currency": "Chilean Peso (CLP)",
+      "timezone": "America/Santiago",
+      "language": "Spanish",
+      "travel_fact": "The world's longest country from north to south, spanning deserts, alpine tundras, and even glaciers."
+    },
+    "China": {
+      "capital": "Beijing",
+      "currency": "Renminbi (Yuan) (CNY)",
+      "timezone": "Asia/Shanghai",
+      "language": "Mandarin",
+      "travel_fact": "The Great Wall of China is the largest man-made structure in the world, stretching over 21,000 kilometers."
+    },
+    "Colombia": {
+      "capital": "Bogotá",
+      "currency": "Colombian Peso (COP)",
+      "timezone": "America/Bogota",
+      "language": "Spanish",
+      "travel_fact": "Produces about 60% of the world's emeralds and is renowned for the quality of its coffee."
+    },
+    "Comoros": {
+      "capital": "Moroni",
+      "currency": "Comorian Franc (KMF)",
+      "timezone": "Indian/Comoro",
+      "language": "Comorian, French, Arabic",
+      "travel_fact": "An archipelago known as the 'Perfume Islands' for its fragrant plants like ylang-ylang and vanilla."
+    },
+    "Congo, Democratic Republic of the": {
+      "capital": "Kinshasa",
+      "currency": "Congolese Franc (CDF)",
+      "timezone": "Africa/Kinshasa",
+      "language": "French",
+      "travel_fact": "Kinshasa and Brazzaville (Republic of the Congo) are the two closest capital cities in the world, separated only by the Congo River."
+    },
+    "Congo, Republic of the": {
+      "capital": "Brazzaville",
+      "currency": "Central African CFA franc (XAF)",
+      "timezone": "Africa/Brazzaville",
+      "language": "French",
+      "travel_fact": "Over half of the country is covered by dense tropical rainforest, making it one of the least densely populated countries in Africa."
+    },
+    "Costa Rica": {
+      "capital": "San José",
+      "currency": "Costa Rican Colón (CRC)",
+      "timezone": "America/Costa_Rica",
+      "language": "Spanish",
+      "travel_fact": "Aims to be one of the first carbon-neutral countries and generates over 98% of its electricity from renewable sources."
+    },
+    "Côte d'Ivoire (Ivory Coast)": {
+      "capital": "Yamoussoukro",
+      "currency": "West African CFA franc (XOF)",
+      "timezone": "Africa/Abidjan",
+      "language": "French",
+      "travel_fact": "The world's largest producer and exporter of cocoa beans, the primary ingredient for chocolate."
+    },
+    "Croatia": {
+      "capital": "Zagreb",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Zagreb",
+      "language": "Croatian",
+      "travel_fact": "The popular TV show 'Game of Thrones' used several locations in Croatia, including Dubrovnik and Split, as filming locations."
+    },
+    "Cuba": {
+      "capital": "Havana",
+      "currency": "Cuban Peso (CUP)",
+      "timezone": "America/Havana",
+      "language": "Spanish",
+      "travel_fact": "Feels like a time capsule with its thousands of classic American cars from the 1950s still running on the island."
+    },
+    "Cyprus": {
+      "capital": "Nicosia",
+      "currency": "Euro (EUR)",
+      "timezone": "Asia/Nicosia",
+      "language": "Greek, Turkish",
+      "travel_fact": "The capital, Nicosia, is the last divided capital city in the world, with a UN buffer zone separating the north and south."
+    },
+    "Czech Republic": {
+      "capital": "Prague",
+      "currency": "Czech Koruna (CZK)",
+      "timezone": "Europe/Prague",
+      "language": "Czech",
+      "travel_fact": "Has the highest beer consumption per capita in the world and more than 2,000 castles and chateaux."
+    },
+    "Denmark": {
+      "capital": "Copenhagen",
+      "currency": "Danish Krone (DKK)",
+      "timezone": "Europe/Copenhagen",
+      "language": "Danish",
+      "travel_fact": "The oldest continuing monarchy in Europe, and the Lego toy was invented here."
+    },
+    "Djibouti": {
+      "capital": "Djibouti",
+      "currency": "Djiboutian Franc (DJF)",
+      "timezone": "Africa/Djibouti",
+      "language": "French, Arabic",
+      "travel_fact": "Home to Lake Assal, the lowest point in Africa and the third most saline body of water in the world."
+    },
+    "Dominica": {
+      "capital": "Roseau",
+      "currency": "East Caribbean Dollar (XCD)",
+      "timezone": "America/Dominica",
+      "language": "English",
+      "travel_fact": "Known as the 'Nature Isle of the Caribbean' for its lush rainforests and Boiling Lake, the second-largest hot lake in the world."
+    },
+    "Dominican Republic": {
+      "capital": "Santo Domingo",
+      "currency": "Dominican Peso (DOP)",
+      "timezone": "America/Santo_Domingo",
+      "language": "Spanish",
+      "travel_fact": "The capital, Santo Domingo, is the oldest European settlement in the Americas, founded in 1496."
+    },
+    "Ecuador": {
+      "capital": "Quito",
+      "currency": "US Dollar (USD)",
+      "timezone": "America/Guayaquil",
+      "language": "Spanish",
+      "travel_fact": "Named after the Equator, which passes through the country, and owns the biodiverse Galápagos Islands."
+    },
+    "Egypt": {
+      "capital": "Cairo",
+      "currency": "Egyptian Pound (EGP)",
+      "timezone": "Africa/Cairo",
+      "language": "Arabic",
+      "travel_fact": "Home to the Great Pyramid of Giza, the only one of the Seven Wonders of the Ancient World still in existence."
+    },
+    "El Salvador": {
+      "capital": "San Salvador",
+      "currency": "US Dollar (USD)",
+      "timezone": "America/El_Salvador",
+      "language": "Spanish",
+      "travel_fact": "Known as the 'Land of Volcanoes,' with more than 20 volcanoes, some of which are still active."
+    },
+    "Equatorial Guinea": {
+      "capital": "Malabo",
+      "currency": "Central African CFA franc (XAF)",
+      "timezone": "Africa/Malabo",
+      "language": "Spanish, French, Portuguese",
+      "travel_fact": "The only sovereign African state where Spanish is an official language."
+    },
+    "Eritrea": {
+      "capital": "Asmara",
+      "currency": "Nakfa (ERN)",
+      "timezone": "Africa/Asmara",
+      "language": "Tigrinya, Arabic, English",
+      "travel_fact": "Its capital, Asmara, is a UNESCO World Heritage Site for its well-preserved colonial Italian modernist architecture."
+    },
+    "Estonia": {
+      "capital": "Tallinn",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Tallinn",
+      "language": "Estonian",
+      "travel_fact": "One of the most digitally advanced societies in the world, where internet access is a human right and Skype was invented."
+    },
+    "Eswatini (formerly Swaziland)": {
+      "capital": "Mbabane (administrative), Lobamba (legislative)",
+      "currency": "Lilangeni (SZL)",
+      "timezone": "Africa/Mbabane",
+      "language": "Swazi, English",
+      "travel_fact": "One of the last remaining absolute monarchies in the world, ruled by King Mswati III."
+    },
+    "Ethiopia": {
+      "capital": "Addis Ababa",
+      "currency": "Birr (ETB)",
+      "timezone": "Africa/Addis_Ababa",
+      "language": "Amharic",
+      "travel_fact": "The only African country to have never been formally colonized and is believed to be the origin of the coffee bean."
+    },
+    "Fiji": {
+      "capital": "Suva",
+      "currency": "Fijian Dollar (FJD)",
+      "timezone": "Pacific/Fiji",
+      "language": "English, Fijian, Hindi",
+      "travel_fact": "Known as the 'Soft Coral Capital of the World,' making it a premier destination for scuba diving."
+    },
+    "Finland": {
+      "capital": "Helsinki",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Helsinki",
+      "language": "Finnish, Swedish",
+      "travel_fact": "Known as the 'Land of a Thousand Lakes' (it actually has 188,000) and is famous for its saunas and the Northern Lights."
+    },
+    "France": {
+      "capital": "Paris",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Paris",
+      "language": "French",
+      "travel_fact": "The most visited country in the world, home to the Louvre, the world's largest art museum."
+    },
+    "Gabon": {
+      "capital": "Libreville",
+      "currency": "Central African CFA franc (XAF)",
+      "timezone": "Africa/Libreville",
+      "language": "French",
+      "travel_fact": "Over 10% of the country is designated as national park land, with vast protected rainforests."
+    },
+    "Gambia": {
+      "capital": "Banjul",
+      "currency": "Dalasi (GMD)",
+      "timezone": "Africa/Banjul",
+      "language": "English",
+      "travel_fact": "The smallest country on mainland Africa, almost entirely surrounded by Senegal."
+    },
+    "Georgia": {
+      "capital": "Tbilisi",
+      "currency": "Lari (GEL)",
+      "timezone": "Asia/Tbilisi",
+      "language": "Georgian",
+      "travel_fact": "Considered the 'cradle of wine,' with archaeological evidence of wine production dating back 8,000 years."
+    },
+    "Germany": {
+      "capital": "Berlin",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Berlin",
+      "language": "German",
+      "travel_fact": "Home to the world-famous Oktoberfest beer festival and a network of highways (Autobahn) with no federally mandated speed limit."
+    },
+    "Ghana": {
+      "capital": "Accra",
+      "currency": "Cedi (GHS)",
+      "timezone": "Africa/Accra",
+      "language": "English",
+      "travel_fact": "Was the first sub-Saharan African country to gain independence from colonial rule."
+    },
+    "Greece": {
+      "capital": "Athens",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Athens",
+      "language": "Greek",
+      "travel_fact": "The birthplace of democracy, Western philosophy, and the Olympic Games, with thousands of islands."
+    },
+    "Grenada": {
+      "capital": "St. George's",
+      "currency": "East Caribbean Dollar (XCD)",
+      "timezone": "America/Grenada",
+      "language": "English",
+      "travel_fact": "Known as the 'Isle of Spice' for its production of nutmeg and mace, and features an underwater sculpture park."
+    },
+    "Guatemala": {
+      "capital": "Guatemala City",
+      "currency": "Quetzal (GTQ)",
+      "timezone": "America/Guatemala",
+      "language": "Spanish",
+      "travel_fact": "The heart of the ancient Maya civilization, with major archaeological sites like Tikal."
+    },
+    "Guinea": {
+      "capital": "Conakry",
+      "currency": "Guinean Franc (GNF)",
+      "timezone": "Africa/Conakry",
+      "language": "French",
+      "travel_fact": "Possesses over a quarter of the world's known bauxite reserves."
+    },
+    "Guinea-Bissau": {
+      "capital": "Bissau",
+      "currency": "West African CFA franc (XOF)",
+      "timezone": "Africa/Bissau",
+      "language": "Portuguese",
+      "travel_fact": "The Bijagos Archipelago is a UNESCO Biosphere Reserve, known for its rare saltwater hippos."
+    },
+    "Guyana": {
+      "capital": "Georgetown",
+      "currency": "Guyanese Dollar (GYD)",
+      "timezone": "America/Guyana",
+      "language": "English",
+      "travel_fact": "The only English-speaking country in South America, home to the massive Kaieteur Falls."
+    },
+    "Haiti": {
+      "capital": "Port-au-Prince",
+      "currency": "Gourde (HTG)",
+      "timezone": "America/Port-au-Prince",
+      "language": "French, Haitian Creole",
+      "travel_fact": "The first independent nation of Latin America and the Caribbean, and the only state in history established by a successful slave revolt."
+    },
+    "Honduras": {
+      "capital": "Tegucigalpa",
+      "currency": "Lempira (HNL)",
+      "timezone": "America/Tegucigalpa",
+      "language": "Spanish",
+      "travel_fact": "It is known for the Lluvia de Peces (Rain of Fish), a phenomenon where fish are said to rain from the sky annually."
+    },
+    "Hungary": {
+      "capital": "Budapest",
+      "currency": "Forint (HUF)",
+      "timezone": "Europe/Budapest",
+      "language": "Hungarian",
+      "travel_fact": "Budapest has more thermal water springs than any other capital city in the world."
+    },
+    "Iceland": {
+      "capital": "Reykjavik",
+      "currency": "Icelandic Króna (ISK)",
+      "timezone": "Atlantic/Reykjavik",
+      "language": "Icelandic",
+      "travel_fact": "Known as the 'Land of Fire and Ice' for its combination of volcanoes and glaciers; it has no mosquitoes."
+    },
+    "India": {
+      "capital": "New Delhi",
+      "currency": "Indian Rupee (INR)",
+      "timezone": "Asia/Kolkata",
+      "language": "Hindi, English",
+      "travel_fact": "The game of chess originated here, and it is home to the Taj Mahal, one of the New Seven Wonders of the World."
+    },
+    "Indonesia": {
+      "capital": "Jakarta",
+      "currency": "Rupiah (IDR)",
+      "timezone": "Asia/Jakarta",
+      "language": "Indonesian",
+      "travel_fact": "The largest archipelago in the world, with over 17,000 islands, and home to the Komodo dragon."
+    },
+    "Iran": {
+      "capital": "Tehran",
+      "currency": "Iranian Rial (IRR)",
+      "timezone": "Asia/Tehran",
+      "language": "Persian (Farsi)",
+      "travel_fact": "Home to Persepolis, the ceremonial capital of the ancient Achaemenid Empire, and a rich history of Persian art and poetry."
+    },
+    "Iraq": {
+      "capital": "Baghdad",
+      "currency": "Iraqi Dinar (IQD)",
+      "timezone": "Asia/Baghdad",
+      "language": "Arabic, Kurdish",
+      "travel_fact": "Historically known as Mesopotamia, the 'Cradle of Civilization,' where writing and the wheel were invented."
+    },
+    "Ireland": {
+      "capital": "Dublin",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Dublin",
+      "language": "Irish, English",
+      "travel_fact": "Halloween has its origins in the ancient Celtic festival of Samhain, celebrated in Ireland."
+    },
+    "Israel": {
+      "capital": "Jerusalem",
+      "currency": "Shekel (ILS)",
+      "timezone": "Asia/Jerusalem",
+      "language": "Hebrew, Arabic",
+      "travel_fact": "Has the highest number of museums per capita in the world and is a center of religious significance for Jews, Christians, and Muslims."
+    },
+    "Italy": {
+      "capital": "Rome",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Rome",
+      "language": "Italian",
+      "travel_fact": "Has the most UNESCO World Heritage sites of any country and is home to the Colosseum and the city of Venice."
+    },
+    "Jamaica": {
+      "capital": "Kingston",
+      "currency": "Jamaican Dollar (JMD)",
+      "timezone": "America/Jamaica",
+      "language": "English",
+      "travel_fact": "The birthplace of Reggae music and the Rastafari movement, and is known for producing some of the world's fastest sprinters."
+    },
+    "Japan": {
+      "capital": "Tokyo",
+      "currency": "Yen (JPY)",
+      "timezone": "Asia/Tokyo",
+      "language": "Japanese",
+      "travel_fact": "Home to the world's oldest company (Kongō Gumi, founded in 578 AD) and has more vending machines per capita than any other country."
+    },
+    "Jordan": {
+      "capital": "Amman",
+      "currency": "Jordanian Dinar (JOD)",
+      "timezone": "Asia/Amman",
+      "language": "Arabic",
+      "travel_fact": "Features the ancient city of Petra, a 'rose-red city half as old as time,' carved directly into rock cliffs."
+    },
+    "Kazakhstan": {
+      "capital": "Astana",
+      "currency": "Tenge (KZT)",
+      "timezone": "Asia/Almaty",
+      "language": "Kazakh, Russian",
+      "travel_fact": "The world's largest landlocked country and the place where apples are believed to have originated."
+    },
+    "Kenya": {
+      "capital": "Nairobi",
+      "currency": "Kenyan Shilling (KES)",
+      "timezone": "Africa/Nairobi",
+      "language": "Swahili, English",
+      "travel_fact": "Famous for the Great Wildebeest Migration in the Maasai Mara, one of the most impressive natural events in the world."
+    },
+    "Kiribati": {
+      "capital": "South Tarawa",
+      "currency": "Australian Dollar (AUD)",
+      "timezone": "Pacific/Tarawa",
+      "language": "English, Gilbertese",
+      "travel_fact": "The only country in the world that falls into all four hemispheres (Northern, Southern, Eastern, and Western)."
+    },
+    "Kuwait": {
+      "capital": "Kuwait City",
+      "currency": "Kuwaiti Dinar (KWD)",
+      "timezone": "Asia/Kuwait",
+      "language": "Arabic",
+      "travel_fact": "The Kuwaiti Dinar is often the highest-valued currency unit in the world."
+    },
+    "Kyrgyzstan": {
+      "capital": "Bishkek",
+      "currency": "Som (KGS)",
+      "timezone": "Asia/Bishkek",
+      "language": "Kyrgyz, Russian",
+      "travel_fact": "Over 90% of the country is mountainous, making it a popular destination for trekking and nomadic culture."
+    },
+    "Laos": {
+      "capital": "Vientiane",
+      "currency": "Kip (LAK)",
+      "timezone": "Asia/Vientiane",
+      "language": "Lao",
+      "travel_fact": "The most heavily bombed country in history per capita, with millions of unexploded ordnances still remaining."
+    },
+    "Latvia": {
+      "capital": "Riga",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Riga",
+      "language": "Latvian",
+      "travel_fact": "Known for its vast forests and for having one of the fastest internet speeds in the world."
+    },
+    "Lebanon": {
+      "capital": "Beirut",
+      "currency": "Lebanese Pound (LBP)",
+      "timezone": "Asia/Beirut",
+      "language": "Arabic",
+      "travel_fact": "The city of Byblos is one of the oldest continuously inhabited cities in the world."
+    },
+    "Lesotho": {
+      "capital": "Maseru",
+      "currency": "Loti (LSL)",
+      "timezone": "Africa/Maseru",
+      "language": "Sesotho, English",
+      "travel_fact": "The only independent state in the world that lies entirely above 1,000 meters in elevation, earning it the name 'Kingdom in the Sky'."
+    },
+    "Liberia": {
+      "capital": "Monrovia",
+      "currency": "Liberian Dollar (LRD)",
+      "timezone": "Africa/Monrovia",
+      "language": "English",
+      "travel_fact": "Africa's first republic, founded by freed American slaves, and its capital is named after US President James Monroe."
+    },
+    "Libya": {
+      "capital": "Tripoli",
+      "currency": "Libyan Dinar (LYD)",
+      "timezone": "Africa/Tripoli",
+      "language": "Arabic",
+      "travel_fact": "Home to Leptis Magna, one of the best-preserved Roman ruined cities in the Mediterranean."
+    },
+    "Liechtenstein": {
+      "capital": "Vaduz",
+      "currency": "Swiss Franc (CHF)",
+      "timezone": "Europe/Vaduz",
+      "language": "German",
+      "travel_fact": "One of only two doubly landlocked countries in the world and has no airport."
+    },
+    "Lithuania": {
+      "capital": "Vilnius",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Vilnius",
+      "language": "Lithuanian",
+      "travel_fact": "Has its own national scent, called 'the Scent of Lithuania,' which includes notes of wildflowers, ginger, and sandalwood."
+    },
+    "Luxembourg": {
+      "capital": "Luxembourg",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Luxembourg",
+      "language": "Luxembourgish, French, German",
+      "travel_fact": "The last remaining Grand Duchy in the world and one of the world's wealthiest countries per capita."
+    },
+    "Madagascar": {
+      "capital": "Antananarivo",
+      "currency": "Malagasy Ariary (MGA)",
+      "timezone": "Indian/Antananarivo",
+      "language": "Malagasy, French",
+      "travel_fact": "About 90% of its wildlife is found nowhere else on Earth, including many species of lemurs."
+    },
+    "Malawi": {
+      "capital": "Lilongwe",
+      "currency": "Malawian Kwacha (MWK)",
+      "timezone": "Africa/Blantyre",
+      "language": "English, Chichewa",
+      "travel_fact": "Dominated by Lake Malawi, an exceptionally clear freshwater lake that is home to more species of fish than any other lake in the world."
+    },
+    "Malaysia": {
+      "capital": "Kuala Lumpur",
+      "currency": "Ringgit (MYR)",
+      "timezone": "Asia/Kuala_Lumpur",
+      "language": "Malay",
+      "travel_fact": "Home to the world's largest cave chamber, the Sarawak Chamber on the island of Borneo."
+    },
+    "Maldives": {
+      "capital": "Malé",
+      "currency": "Maldivian Rufiyaa (MVR)",
+      "timezone": "Indian/Maldives",
+      "language": "Dhivehi",
+      "travel_fact": "The lowest and flattest country in the world, with an average ground-level elevation of just 1.5 meters above sea level."
+    },
+    "Mali": {
+      "capital": "Bamako",
+      "currency": "West African CFA franc (XOF)",
+      "timezone": "Africa/Bamako",
+      "language": "French",
+      "travel_fact": "The city of Timbuktu was a major center for Islamic scholarship in the 15th and 16th centuries."
+    },
+    "Malta": {
+      "capital": "Valletta",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Malta",
+      "language": "Maltese, English",
+      "travel_fact": "The capital city, Valletta, is a UNESCO World Heritage site and one of the most concentrated historic areas in the world."
+    },
+    "Marshall Islands": {
+      "capital": "Majuro",
+      "currency": "US Dollar (USD)",
+      "timezone": "Pacific/Majuro",
+      "language": "Marshallese, English",
+      "travel_fact": "The Bikini Atoll was the site of over 20 nuclear weapon tests by the United States between 1946 and 1958."
+    },
+    "Mauritania": {
+      "capital": "Nouakchott",
+      "currency": "Ouguiya (MRU)",
+      "timezone": "Africa/Nouakchott",
+      "language": "Arabic",
+      "travel_fact": "Home to the Richat Structure, or 'Eye of the Sahara,' a prominent circular feature in the desert that is visible from space."
+    },
+    "Mauritius": {
+      "capital": "Port Louis",
+      "currency": "Mauritian Rupee (MUR)",
+      "timezone": "Indian/Mauritius",
+      "language": "English, French",
+      "travel_fact": "Was the only known habitat of the extinct dodo bird."
+    },
+    "Mexico": {
+      "capital": "Mexico City",
+      "currency": "Mexican Peso (MXN)",
+      "timezone": "America/Mexico_City",
+      "language": "Spanish",
+      "travel_fact": "Home to the world's largest pyramid by volume, the Great Pyramid of Cholula."
+    },
+    "Micronesia": {
+      "capital": "Palikir",
+      "currency": "US Dollar (USD)",
+      "timezone": "Pacific/Pohnpei",
+      "language": "English",
+      "travel_fact": "Consists of 607 islands, including the archaeological site of Nan Madol, a series of artificial islets."
+    },
+    "Moldova": {
+      "capital": "Chisinau",
+      "currency": "Moldovan Leu (MDL)",
+      "timezone": "Europe/Chisinau",
+      "language": "Romanian",
+      "travel_fact": "Home to Mileștii Mici, the winery with the largest wine collection in the world, stretching over 200 km."
+    },
+    "Monaco": {
+      "capital": "Monaco",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Monaco",
+      "language": "French",
+      "travel_fact": "The second-smallest country in the world and home to the famous Monte Carlo Casino and the Monaco Grand Prix."
+    },
+    "Mongolia": {
+      "capital": "Ulaanbaatar",
+      "currency": "Tögrög (MNT)",
+      "timezone": "Asia/Ulaanbaatar",
+      "language": "Mongolian",
+      "travel_fact": "The most sparsely populated sovereign country in the world, known for its vast, rugged expanses and nomadic culture."
+    },
+    "Montenegro": {
+      "capital": "Podgorica",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Podgorica",
+      "language": "Montenegrin",
+      "travel_fact": "Home to the Tara River Canyon, the deepest canyon in Europe."
+    },
+    "Morocco": {
+      "capital": "Rabat",
+      "currency": "Moroccan Dirham (MAD)",
+      "timezone": "Africa/Casablanca",
+      "language": "Arabic, Berber",
+      "travel_fact": "The University of al-Qarawiyyin in Fez, founded in 859 AD, is the oldest existing, continually operating educational institution in the world."
+    },
+    "Mozambique": {
+      "capital": "Maputo",
+      "currency": "Metical (MZN)",
+      "timezone": "Africa/Maputo",
+      "language": "Portuguese",
+      "travel_fact": "The only country whose one-word name includes all five vowels."
+    },
+    "Myanmar (formerly Burma)": {
+      "capital": "Naypyidaw",
+      "currency": "Kyat (MMK)",
+      "timezone": "Asia/Yangon",
+      "language": "Burmese",
+      "travel_fact": "The ancient city of Bagan is home to the largest and densest concentration of Buddhist temples, pagodas, and stupas in the world."
+    },
+    "Namibia": {
+      "capital": "Windhoek",
+      "currency": "Namibian Dollar (NAD)",
+      "timezone": "Africa/Windhoek",
+      "language": "English",
+      "travel_fact": "Home to the Namib Desert, one of the oldest and driest deserts in the world, and the iconic towering red dunes of Sossusvlei."
+    },
+    "Nauru": {
+      "capital": "Yaren District (de facto)",
+      "currency": "Australian Dollar (AUD)",
+      "timezone": "Pacific/Nauru",
+      "language": "Nauruan, English",
+      "travel_fact": "The smallest island nation in the world and was once one of the wealthiest due to rich phosphate deposits, which are now largely depleted."
+    },
+    "Nepal": {
+      "capital": "Kathmandu",
+      "currency": "Nepalese Rupee (NPR)",
+      "timezone": "Asia/Kathmandu",
+      "language": "Nepali",
+      "travel_fact": "Home to eight of the world's ten tallest mountains, including Mount Everest, the highest point on Earth. It's also the only country with a non-rectangular flag."
+    },
+    "Netherlands": {
+      "capital": "Amsterdam",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Amsterdam",
+      "language": "Dutch",
+      "travel_fact": "Over a quarter of the country is below sea level, protected by an intricate system of dikes and windmills."
+    },
+    "New Zealand": {
+      "capital": "Wellington",
+      "currency": "New Zealand Dollar (NZD)",
+      "timezone": "Pacific/Auckland",
+      "language": "English, Māori",
+      "travel_fact": "The first major country to give women the right to vote in 1893. Filming location for 'The Lord of the Rings' trilogy."
+    },
+    "Nicaragua": {
+      "capital": "Managua",
+      "currency": "Córdoba (NIO)",
+      "timezone": "America/Managua",
+      "language": "Spanish",
+      "travel_fact": "Lake Nicaragua is the largest lake in Central America and is home to the only freshwater sharks in the world."
+    },
+    "Niger": {
+      "capital": "Niamey",
+      "currency": "West African CFA franc (XOF)",
+      "timezone": "Africa/Niamey",
+      "language": "French",
+      "travel_fact": "Known for the 'Giraffe Herds of Kouré,' one of the last remaining populations of West African giraffes."
+    },
+    "Nigeria": {
+      "capital": "Abuja",
+      "currency": "Naira (NGN)",
+      "timezone": "Africa/Lagos",
+      "language": "English",
+      "travel_fact": "The most populous country in Africa and home to 'Nollywood,' the second-largest film industry in the world by volume."
+    },
+    "North Korea": {
+      "capital": "Pyongyang",
+      "currency": "North Korean Won (KPW)",
+      "timezone": "Asia/Pyongyang",
+      "language": "Korean",
+      "travel_fact": "Home to the Arirang Mass Games, a synchronized gymnastics and artistic performance featuring over 100,000 participants."
+    },
+    "North Macedonia": {
+      "capital": "Skopje",
+      "currency": "Denar (MKD)",
+      "timezone": "Europe/Skopje",
+      "language": "Macedonian",
+      "travel_fact": "Lake Ohrid is one of the oldest and deepest lakes in Europe, preserving a unique aquatic ecosystem."
+    },
+    "Norway": {
+      "capital": "Oslo",
+      "currency": "Norwegian Krone (NOK)",
+      "timezone": "Europe/Oslo",
+      "language": "Norwegian",
+      "travel_fact": "Famous for its fjords, deep inlets of the sea between high cliffs. It has donated a Christmas tree to London's Trafalgar Square every year since 1947."
+    },
+    "Oman": {
+      "capital": "Muscat",
+      "currency": "Omani Rial (OMR)",
+      "timezone": "Asia/Muscat",
+      "language": "Arabic",
+      "travel_fact": "Known for its traditional dhow boats and as a major producer of high-quality frankincense."
+    },
+    "Pakistan": {
+      "capital": "Islamabad",
+      "currency": "Pakistani Rupee (PKR)",
+      "timezone": "Asia/Karachi",
+      "language": "Urdu, English",
+      "travel_fact": "Home to K2, the second-highest mountain in the world, and the Karakoram Highway, one of the highest paved international roads."
+    },
+    "Palau": {
+      "capital": "Ngerulmud",
+      "currency": "US Dollar (USD)",
+      "timezone": "Pacific/Palau",
+      "language": "Palauan, English",
+      "travel_fact": "Famous for its Jellyfish Lake, where you can swim with millions of harmless jellyfish."
+    },
+    "Palestine": {
+      "capital": "Jerusalem (East)",
+      "currency": "Israeli Shekel (ILS), Jordanian Dinar (JOD)",
+      "timezone": "Asia/Gaza",
+      "language": "Arabic",
+      "travel_fact": "Bethlehem, located in the West Bank, is revered by Christians as the birthplace of Jesus Christ."
+    },
+    "Panama": {
+      "capital": "Panama City",
+      "currency": "Balboa (PAB), US Dollar (USD)",
+      "timezone": "America/Panama",
+      "language": "Spanish",
+      "travel_fact": "The Panama Canal is one of the most important shipping routes in the world, connecting the Atlantic and Pacific Oceans."
+    },
+    "Papua New Guinea": {
+      "capital": "Port Moresby",
+      "currency": "Kina (PGK)",
+      "timezone": "Pacific/Port_Moresby",
+      "language": "English, Tok Pisin, Hiri Motu",
+      "travel_fact": "One of the most culturally diverse countries, with over 850 indigenous languages spoken."
+    },
+    "Paraguay": {
+      "capital": "Asunción",
+      "currency": "Guaraní (PYG)",
+      "timezone": "America/Asuncion",
+      "language": "Spanish, Guaraní",
+      "travel_fact": "The Itaipu Dam on the border with Brazil is one of the largest hydroelectric power plants in the world."
+    },
+    "Peru": {
+      "capital": "Lima",
+      "currency": "Sol (PEN)",
+      "timezone": "America/Lima",
+      "language": "Spanish",
+      "travel_fact": "Home to the ancient Incan citadel of Machu Picchu and the mysterious Nazca Lines."
+    },
+    "Philippines": {
+      "capital": "Manila",
+      "currency": "Philippine Peso (PHP)",
+      "timezone": "Asia/Manila",
+      "language": "Filipino, English",
+      "travel_fact": "The world's second-largest archipelago, made up of about 7,641 islands."
+    },
+    "Poland": {
+      "capital": "Warsaw",
+      "currency": "Złoty (PLN)",
+      "timezone": "Europe/Warsaw",
+      "language": "Polish",
+      "travel_fact": "The Wieliczka Salt Mine features an entire cathedral carved out of rock salt."
+    },
+    "Portugal": {
+      "capital": "Lisbon",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Lisbon",
+      "language": "Portuguese",
+      "travel_fact": "Home to the world's oldest bookstore (Bertrand in Lisbon, opened in 1732) and a coastline famous for its giant surfing waves at Nazaré."
+    },
+    "Qatar": {
+      "capital": "Doha",
+      "currency": "Qatari Riyal (QAR)",
+      "timezone": "Asia/Qatar",
+      "language": "Arabic",
+      "travel_fact": "One of the richest countries in the world per capita due to its large natural gas and oil reserves. It hosted the 2022 FIFA World Cup."
+    },
+    "Romania": {
+      "capital": "Bucharest",
+      "currency": "Leu (RON)",
+      "timezone": "Europe/Bucharest",
+      "language": "Romanian",
+      "travel_fact": "The region of Transylvania is famously associated with the legend of Dracula and has many medieval castles."
+    },
+    "Russia": {
+      "capital": "Moscow",
+      "currency": "Russian Ruble (RUB)",
+      "timezone": "Europe/Moscow",
+      "language": "Russian",
+      "travel_fact": "The largest country in the world by land area, spanning 11 time zones, and home to the world's deepest lake, Lake Baikal."
+    },
+    "Rwanda": {
+      "capital": "Kigali",
+      "currency": "Rwandan Franc (RWF)",
+      "timezone": "Africa/Kigali",
+      "language": "Kinyarwanda, French, English, Swahili",
+      "travel_fact": "Known as the 'Land of a Thousand Hills,' it is one of the best places to see the endangered mountain gorilla in its natural habitat."
+    },
+    "Saint Kitts and Nevis": {
+      "capital": "Basseterre",
+      "currency": "East Caribbean Dollar (XCD)",
+      "timezone": "America/St_Kitts",
+      "language": "English",
+      "travel_fact": "One of the smallest countries in the Western Hemisphere, where the number of green vervet monkeys outnumbers the human population."
+    },
+    "Saint Lucia": {
+      "capital": "Castries",
+      "currency": "East Caribbean Dollar (XCD)",
+      "timezone": "America/St_Lucia",
+      "language": "English",
+      "travel_fact": "Famous for the Pitons, two majestic volcanic plugs that are a UNESCO World Heritage Site."
+    },
+    "Saint Vincent and the Grenadines": {
+      "capital": "Kingstown",
+      "currency": "East Caribbean Dollar (XCD)",
+      "timezone": "America/St_Vincent",
+      "language": "English",
+      "travel_fact": "A major filming location for the 'Pirates of the Caribbean' movies."
+    },
+    "Samoa": {
+      "capital": "Apia",
+      "currency": "Tālā (WST)",
+      "timezone": "Pacific/Apia",
+      "language": "Samoan, English",
+      "travel_fact": "In 2011, it jumped west across the International Date Line, skipping a full day (December 30) to better align with its trading partners."
+    },
+    "San Marino": {
+      "capital": "San Marino",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/San_Marino",
+      "language": "Italian",
+      "travel_fact": "The world's oldest surviving sovereign state and constitutional republic, founded in 301 AD."
+    },
+    "Sao Tome and Principe": {
+      "capital": "São Tomé",
+      "currency": "Dobra (STN)",
+      "timezone": "Africa/Sao_Tome",
+      "language": "Portuguese",
+      "travel_fact": "Known as the 'Chocolate Islands' for their high-quality cocoa production."
+    },
+    "Saudi Arabia": {
+      "capital": "Riyadh",
+      "currency": "Saudi Riyal (SAR)",
+      "timezone": "Asia/Riyadh",
+      "language": "Arabic",
+      "travel_fact": "Home to Mecca and Medina, the two holiest cities in Islam. It is the world's largest country without a river."
+    },
+    "Senegal": {
+      "capital": "Dakar",
+      "currency": "West African CFA franc (XOF)",
+      "timezone": "Africa/Dakar",
+      "language": "French",
+      "travel_fact": "Home to Lake Retba (Lac Rose), a pink lake whose color is caused by salt-loving algae."
+    },
+    "Serbia": {
+      "capital": "Belgrade",
+      "currency": "Serbian Dinar (RSD)",
+      "timezone": "Europe/Belgrade",
+      "language": "Serbian",
+      "travel_fact": "A significant portion of the world's raspberries are grown in Serbia."
+    },
+    "Seychelles": {
+      "capital": "Victoria",
+      "currency": "Seychellois Rupee (SCR)",
+      "timezone": "Indian/Mahe",
+      "language": "Seychellois Creole, English, French",
+      "travel_fact": "Home to two UNESCO World Heritage Sites: the Aldabra Atoll and the Vallée de Mai Nature Reserve, where the rare coco de mer palm grows."
+    },
+    "Sierra Leone": {
+      "capital": "Freetown",
+      "currency": "Leone (SLL)",
+      "timezone": "Africa/Freetown",
+      "language": "English",
+      "travel_fact": "Known for its history related to the transatlantic slave trade and for its high-quality diamonds."
+    },
+    "Singapore": {
+      "capital": "Singapore",
+      "currency": "Singapore Dollar (SGD)",
+      "timezone": "Asia/Singapore",
+      "language": "English, Malay, Mandarin, Tamil",
+      "travel_fact": "A city-state with the world's first night zoo, the Night Safari, and the stunning Gardens by the Bay."
+    },
+    "Slovakia": {
+      "capital": "Bratislava",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Bratislava",
+      "language": "Slovak",
+      "travel_fact": "Has the highest number of castles and chateaux per capita in the world."
+    },
+    "Slovenia": {
+      "capital": "Ljubljana",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Ljubljana",
+      "language": "Slovene",
+      "travel_fact": "Home to the Postojna Cave, one of the world's most famous show caves, which can be toured by a small electric train."
+    },
+    "Solomon Islands": {
+      "capital": "Honiara",
+      "currency": "Solomon Islands Dollar (SBD)",
+      "timezone": "Pacific/Guadalcanal",
+      "language": "English",
+      "travel_fact": "The site of major World War II battles, particularly the Battle of Guadalcanal, and is a top destination for wreck diving."
+    },
+    "Somalia": {
+      "capital": "Mogadishu",
+      "currency": "Somali Shilling (SOS)",
+      "timezone": "Africa/Mogadishu",
+      "language": "Somali, Arabic",
+      "travel_fact": "Has the longest coastline on mainland Africa."
+    },
+    "South Africa": {
+      "capital": "Pretoria (executive), Bloemfontein (judicial), Cape Town (legislative)",
+      "currency": "Rand (ZAR)",
+      "timezone": "Africa/Johannesburg",
+      "language": "Zulu, Xhosa, Afrikaans, English, and 7 others",
+      "travel_fact": "The only country in the world to have hosted the soccer, cricket, and rugby world cups. Home to Table Mountain."
+    },
+    "South Korea": {
+      "capital": "Seoul",
+      "currency": "South Korean Won (KRW)",
+      "timezone": "Asia/Seoul",
+      "language": "Korean",
+      "travel_fact": "A global leader in technology and innovation, and the birthplace of K-Pop and Taekwondo."
+    },
+    "South Sudan": {
+      "capital": "Juba",
+      "currency": "South Sudanese Pound (SSP)",
+      "timezone": "Africa/Juba",
+      "language": "English",
+      "travel_fact": "The world's newest internationally recognized country, having gained independence from Sudan in 2011."
+    },
+    "Spain": {
+      "capital": "Madrid",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Madrid",
+      "language": "Spanish",
+      "travel_fact": "The only country in Europe to share a physical border with an African country (Morocco via Ceuta and Melilla)."
+    },
+    "Sri Lanka": {
+      "capital": "Sri Jayawardenepura Kotte (official), Colombo (commercial)",
+      "currency": "Sri Lankan Rupee (LKR)",
+      "timezone": "Asia/Colombo",
+      "language": "Sinhala, Tamil",
+      "travel_fact": "Known as the 'Teardrop of India' and is one of the world's largest exporters of tea."
+    },
+    "Sudan": {
+      "capital": "Khartoum",
+      "currency": "Sudanese Pound (SDG)",
+      "timezone": "Africa/Khartoum",
+      "language": "Arabic, English",
+      "travel_fact": "Has more pyramids than Egypt, located in the ancient sites of Meroë."
+    },
+    "Suriname": {
+      "capital": "Paramaribo",
+      "currency": "Surinamese Dollar (SRD)",
+      "timezone": "America/Paramaribo",
+      "language": "Dutch",
+      "travel_fact": "The most forested country in the world, with over 93% of its land area covered by forest."
+    },
+    "Sweden": {
+      "capital": "Stockholm",
+      "currency": "Swedish Krona (SEK)",
+      "timezone": "Europe/Stockholm",
+      "language": "Swedish",
+      "travel_fact": "Gives citizens the 'right to roam' (Allemansrätten), allowing people to walk, camp, or pick berries on any land, with some exceptions."
+    },
+    "Switzerland": {
+      "capital": "Bern",
+      "currency": "Swiss Franc (CHF)",
+      "timezone": "Europe/Zurich",
+      "language": "German, French, Italian, Romansh",
+      "travel_fact": "Has more high peaks than any other country in Europe and has enough nuclear fallout shelters to accommodate its entire population."
+    },
+    "Syria": {
+      "capital": "Damascus",
+      "currency": "Syrian Pound (SYP)",
+      "timezone": "Asia/Damascus",
+      "language": "Arabic",
+      "travel_fact": "The capital, Damascus, is widely believed to be one of the oldest continuously inhabited cities in the world."
+    },
+    "Taiwan": {
+      "capital": "Taipei",
+      "currency": "New Taiwan Dollar (TWD)",
+      "timezone": "Asia/Taipei",
+      "language": "Mandarin",
+      "travel_fact": "Famous for its vibrant night markets and home to Taipei 101, which was the world's tallest building from 2004 to 2010."
+    },
+    "Tajikistan": {
+      "capital": "Dushanbe",
+      "currency": "Somoni (TJS)",
+      "timezone": "Asia/Dushanbe",
+      "language": "Tajik",
+      "travel_fact": "Over 90% of the country is mountainous, and it is home to the Fedchenko Glacier, the longest glacier outside the polar regions."
+    },
+    "Tanzania": {
+      "capital": "Dodoma",
+      "currency": "Tanzanian Shilling (TZS)",
+      "timezone": "Africa/Dar_es_Salaam",
+      "language": "Swahili, English",
+      "travel_fact": "Home to Africa's highest mountain, Kilimanjaro, and the vast Serengeti National Park."
+    },
+    "Thailand": {
+      "capital": "Bangkok",
+      "currency": "Baht (THB)",
+      "timezone": "Asia/Bangkok",
+      "language": "Thai",
+      "travel_fact": "The only Southeast Asian country that was never colonized by a European power. Its capital, Bangkok, has the longest official name of any city in the world."
+    },
+    "Timor-Leste (East Timor)": {
+      "capital": "Dili",
+      "currency": "US Dollar (USD)",
+      "timezone": "Asia/Dili",
+      "language": "Tetum, Portuguese",
+      "travel_fact": "One of only two predominantly Christian nations in Southeast Asia, the other being the Philippines."
+    },
+    "Togo": {
+      "capital": "Lomé",
+      "currency": "West African CFA franc (XOF)",
+      "timezone": "Africa/Lome",
+      "language": "French",
+      "travel_fact": "Known for its palm-lined beaches and hilltop villages, as well as the large Akodessewa Fetish Market in Lomé."
+    },
+    "Tonga": {
+      "capital": "Nuku'alofa",
+      "currency": "Tongan Pa'anga (TOP)",
+      "timezone": "Pacific/Tongatapu",
+      "language": "Tongan, English",
+      "travel_fact": "The only remaining kingdom in the Pacific. It has never lost its indigenous governance."
+    },
+    "Trinidad and Tobago": {
+      "capital": "Port of Spain",
+      "currency": "Trinidad and Tobago Dollar (TTD)",
+      "timezone": "America/Port_of_Spain",
+      "language": "English",
+      "travel_fact": "The birthplace of the steelpan drum, the only acoustic musical instrument invented in the 20th century, and host to a world-famous Carnival."
+    },
+    "Tunisia": {
+      "capital": "Tunis",
+      "currency": "Tunisian Dinar (TND)",
+      "timezone": "Africa/Tunis",
+      "language": "Arabic",
+      "travel_fact": "The city of Carthage was a major power in the ancient world, and several Star Wars scenes were filmed in the country's southern desert regions."
+    },
+    "Turkey": {
+      "capital": "Ankara",
+      "currency": "Turkish Lira (TRY)",
+      "timezone": "Europe/Istanbul",
+      "language": "Turkish",
+      "travel_fact": "Istanbul is the only city in the world that straddles two continents (Europe and Asia)."
+    },
+    "Turkmenistan": {
+      "capital": "Ashgabat",
+      "currency": "Turkmenistan Manat (TMT)",
+      "timezone": "Asia/Ashgabat",
+      "language": "Turkmen",
+      "travel_fact": "Home to the 'Darvaza Gas Crater,' also known as the 'Gates of Hell' or 'Door to Hell,' a natural gas field that has been burning continuously since 1971."
+    },
+    "Tuvalu": {
+      "capital": "Funafuti",
+      "currency": "Tuvaluan Dollar, Australian Dollar (AUD)",
+      "timezone": "Pacific/Funafuti",
+      "language": "Tuvaluan, English",
+      "travel_fact": "One of the smallest and most remote nations in the world. Its internet country code, '.tv', is a significant source of national revenue."
+    },
+    "Uganda": {
+      "capital": "Kampala",
+      "currency": "Ugandan Shilling (UGX)",
+      "timezone": "Africa/Kampala",
+      "language": "English, Swahili",
+      "travel_fact": "Known as the 'Pearl of Africa,' it is one of the most biodiverse countries, home to half the world's mountain gorillas and the source of the Nile River."
+    },
+    "Ukraine": {
+      "capital": "Kyiv",
+      "currency": "Hryvnia (UAH)",
+      "timezone": "Europe/Kyiv",
+      "language": "Ukrainian",
+      "travel_fact": "The 'Arsenalna' metro station in Kyiv is the deepest in the world at 105.5 meters below ground."
+    },
+    "United Arab Emirates": {
+      "capital": "Abu Dhabi",
+      "currency": "UAE Dirham (AED)",
+      "timezone": "Asia/Dubai",
+      "language": "Arabic",
+      "travel_fact": "Home to the world's tallest building, the Burj Khalifa in Dubai, and has a minister for happiness."
+    },
+    "United Kingdom": {
+      "capital": "London",
+      "currency": "Pound Sterling (GBP)",
+      "timezone": "Europe/London",
+      "language": "English",
+      "travel_fact": "Home to the Prime Meridian in Greenwich, which marks 0° longitude, the reference point for all time zones."
+    },
+    "United States": {
+      "capital": "Washington, D.C.",
+      "currency": "US Dollar (USD)",
+      "timezone": "America/New_York",
+      "language": "English (de facto)",
+      "travel_fact": "Features the world's most extensive national park system, with 63 protected national parks."
+    },
+    "Uruguay": {
+      "capital": "Montevideo",
+      "currency": "Uruguayan Peso (UYU)",
+      "timezone": "America/Montevideo",
+      "language": "Spanish",
+      "travel_fact": "The first country in the world to provide a free laptop and Wi-Fi to every school student."
+    },
+    "Uzbekistan": {
+      "capital": "Tashkent",
+      "currency": "Uzbekistani So'm (UZS)",
+      "timezone": "Asia/Tashkent",
+      "language": "Uzbek",
+      "travel_fact": "Features several major cities on the Silk Road, including Samarkand, Bukhara, and Khiva, known for their stunning Islamic architecture."
+    },
+    "Vanuatu": {
+      "capital": "Port Vila",
+      "currency": "Vatu (VUV)",
+      "timezone": "Pacific/Efate",
+      "language": "Bislama, English, French",
+      "travel_fact": "Home to one of the world's most accessible active volcanoes, Mount Yasur, and the practice of bungee jumping originated here (known as Naghol)."
+    },
+    "Vatican City": {
+      "capital": "Vatican City",
+      "currency": "Euro (EUR)",
+      "timezone": "Europe/Vatican",
+      "language": "Italian, Latin",
+      "travel_fact": "The smallest independent state in the world, home to the Pope, St. Peter's Basilica, and the Sistine Chapel."
+    },
+    "Venezuela": {
+      "capital": "Caracas",
+      "currency": "Bolívar Soberano (VES)",
+      "timezone": "America/Caracas",
+      "language": "Spanish",
+      "travel_fact": "Home to Angel Falls, the world's tallest uninterrupted waterfall."
+    },
+    "Vietnam": {
+      "capital": "Hanoi",
+      "currency": "Đồng (VND)",
+      "timezone": "Asia/Ho_Chi_Minh",
+      "language": "Vietnamese",
+      "travel_fact": "Ha Long Bay is a UNESCO World Heritage Site famous for its thousands of limestone karsts and isles in various shapes and sizes."
+    },
+    "Yemen": {
+      "capital": "Sana'a",
+      "currency": "Yemeni Rial (YER)",
+      "timezone": "Asia/Aden",
+      "language": "Arabic",
+      "travel_fact": "The island of Socotra is a UNESCO World Heritage site known for its unique and alien-like flora, such as the Dragon's Blood Tree."
+    },
+    "Zambia": {
+      "capital": "Lusaka",
+      "currency": "Zambian Kwacha (ZMW)",
+      "timezone": "Africa/Lusaka",
+      "language": "English",
+      "travel_fact": "Shares the spectacular Victoria Falls with Zimbabwe, known locally as Mosi-oa-Tunya, 'The Smoke That Thunders'."
+    },
+    "Zimbabwe": {
+      "capital": "Harare",
+      "currency": "Zimbabwean Dollar (ZWL), US Dollar (USD)",
+      "timezone": "Africa/Harare",
+      "language": "English, Shona, Ndebele, and 13 others",
+      "travel_fact": "Home to the Great Zimbabwe, a ruined city in the south-eastern hills that was the capital of the Kingdom of Zimbabwe during the Late Iron Age."
+    }
+  }

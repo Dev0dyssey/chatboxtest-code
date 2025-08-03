@@ -18,3 +18,13 @@ export interface ChatApiRequest {
   userAnswers?: UserData
   conversationHistory?: Array<{ content: string; isUser: boolean }>
 }
+
+export interface CountryData {
+  [key: string]: {
+    capital: string
+    currency: string
+    timezone: string
+    language: string
+    travel_fact: string
+  }
+}
